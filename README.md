@@ -1,6 +1,6 @@
 # AP_Disabled
 
-##Goal
+## Goal
 
 - Creating The simplest, The clearest AP course textbook ever.
 
