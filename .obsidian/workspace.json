@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP_calculus/Discription.md",
+                "file": "AP_calculus/Unit 1.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Discription"
+              "title": "Unit 1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e9788442bdbcdd1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7925726565ad3621",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP_calculus/Unit 1.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Unit 1"
             }
           }
         ]
@@ -104,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Unit 1"
+              "title": "Unit 1 的反向链接列表"
             }
           },
           {
@@ -175,12 +195,12 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,10 +214,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "285a712f12ca7b4f",
+  "active": "7925726565ad3621",
   "lastOpenFiles": [
-    "AP_calculus/Unit 1.md",
     "AP_calculus/Discription.md",
+    "AP_calculus/Unit 1.md",
     "README.md",
     "Untitled.base",
     "Untitled.canvas",

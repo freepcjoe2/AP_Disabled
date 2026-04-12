@@ -39,4 +39,4 @@ What if the car moved a tiny length at a tiny time? [^1]
 
 ### Limit
 
-## 1.2 Defining Limits and Using Limit Notation
+## 1.2 Defining Limits and Using Limit Notation 
