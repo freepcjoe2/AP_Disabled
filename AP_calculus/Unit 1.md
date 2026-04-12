@@ -34,7 +34,7 @@ $S$ as the distance the car has gone through in a certain amount of time $t$.
 Wait isn't that mean the car is not moving at the moment we take that photo?
 But the car is moving at that moment.
 
-What if the car moved a tiny lenth at a tiny time? [^1]
+What if the car moved a tiny length at a tiny time? [^1]
 [^1]:a
 
 ### Limit
