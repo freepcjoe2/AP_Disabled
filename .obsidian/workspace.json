@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3774cc2026ec3fbe",
+        "id": "1699fb6d3eee0d27",
         "type": "tabs",
         "children": [
           {
-            "id": "2c5be70f879d95d0",
+            "id": "5bee028db54f46fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,8 +53,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#AP",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,10 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c5be70f879d95d0",
+  "active": "0b2dbbf752554439",
   "lastOpenFiles": [
-    "Untitled.base",
+    "AP_calculus/Discription.md",
     "AP_calculus/Unit 1.md",
-    "AP_calculus/Discription.md"
+    "README.md",
+    "Untitled.base",
+    "2026-04-11.md",
+    "Untitled.canvas"
   ]
 }
