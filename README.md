@@ -1,11 +1,8 @@
-# AP_Disabled♿️
+# AP_Disabled ♿️
 
 ## Goal
-- 希望这能成为最说人话的ap教程
 
+- 希望这能成为最说人话的ap笔记
 
-
-
-
-
-<a href="https://github.com/freepcjoe2/AP_Disabled">AP_Disabled</a> © 2026 by <a href="https://example.com">Zhou Jin</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<!-- markdownlint-disable-next-line MD033 -->
+[AP_Disabled](https://github.com/freepcjoe2/AP_Disabled) © 2026 by [Zhou Jin](https://github.com/freepcjoe2) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
