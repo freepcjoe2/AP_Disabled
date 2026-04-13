@@ -7,8 +7,6 @@ The text assumed you have an great understanding on functions
 
 Yes, you can go take the test after reading this. The text is based on the official _Course and exam Descrption_ (CED) by CollegeBoard.
 
-The spelling of this text have **never** been checked by any tools. In fact, the text is mainly finished on Microsoft VS Code.
-
 ## Table of Contents
 
 | Unit | Title |
