@@ -16,7 +16,8 @@
               "state": {
                 "file": "AP_calculus/Unit 1.md",
                 "mode": "source",
-                "source": true
+                "source": true,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Unit 1"
@@ -37,7 +38,8 @@
               "state": {
                 "file": "AP_calculus/Unit 1.md",
                 "mode": "preview",
-                "source": true
+                "source": true,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Unit 1"
