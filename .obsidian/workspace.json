@@ -6,6 +6,7 @@
       {
         "id": "1699fb6d3eee0d27",
         "type": "tabs",
+        "dimension": 50.108459869848154,
         "children": [
           {
             "id": "5bee028db54f46fd",
@@ -26,6 +27,7 @@
       {
         "id": "e9788442bdbcdd1d",
         "type": "tabs",
+        "dimension": 49.891540130151846,
         "children": [
           {
             "id": "7925726565ad3621",
@@ -214,7 +216,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7925726565ad3621",
+  "active": "5bee028db54f46fd",
   "lastOpenFiles": [
     "AP_calculus/Discription.md",
     "AP_calculus/Unit 1.md",
